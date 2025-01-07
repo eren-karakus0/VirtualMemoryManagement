@@ -2,4 +2,4 @@
 build/
 docs/
 *.log
-*.txt
+!CMakeLists.txt
